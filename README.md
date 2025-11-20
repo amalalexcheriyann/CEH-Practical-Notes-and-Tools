@@ -578,45 +578,10 @@ cp /root/Desktop/filename /var/www/html/share/
 </details>
 
 
-# Resource
-<details>
-  <summary>Course</summary>
 
-  ## Course
-  
-* [Penetration Testing Student - PTS ](https://my.ine.com/CyberSecurity/learning-paths/a223968e-3a74-45ed-884d-2d16760b8bbd/penetration-testing-student) from [INE](https://my.ine.com/)
-* [Practical Ethical Hacking - PEH ](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) from [TCM Security](https://tcm-sec.com/)
-* [iLab](https://ilabs.eccouncil.org/ethical-hacking-exercises/) CEH (Practical) Official Lab from [EC-Council](https://www.eccouncil.org/)
-* [Youtube free iLab ](https://www.youtube.com/watch?v=9g5gdhoDotg&list=PLWGnVet-gN_kGHSHbWbeI0gtfYx3PnDZO)
-
-</details>
-<details>
-  <summary>TryHackMe</summary>
-
-## TryHackMe
-### Learning Path
-* [Pre-Security](https://tryhackme.com/paths) 
-* [Jr Penetration Tester](https://tryhackme.com/paths)
-* [Complete Beginner](https://tryhackme.com/paths) 
-### Rooms
-* [Linux](https://tryhackme.com/module/linux-fundamentals)
-* [Nmap](https://tryhackme.com/room/furthernmap)
-* [SQLMAP](https://tryhackme.com/room/sqlmap)
-* [Wireshark](https://tryhackme.com/room/wireshark)
-* [Hydra](https://tryhackme.com/room/hydra)
-* [DVWA](https://tryhackme.com/room/dvwa)
-* [OWASP Top 10](https://tryhackme.com/room/owasptop10)
-
-  
-</details>  
-
-<details>
-  <summary>Useful Links</summary>
   
 ## Links
 * [hash.com](https://hashes.com/en/decrypt/hash) is a online hash Identifier and Cracker 
 </details>
 
-Final Words: Grab a cup of Tea ☕ and GRIND!!!
 
-  <img src = "/IMG/motivation.jpg"/>
